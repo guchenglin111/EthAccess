@@ -2,7 +2,8 @@
 	"app": {
 		"rootPath":"/blockchain/api/ethaccess",
         "ethereum": {
-            "url": "http://localhost:8545",
+            "url_main": "https://api.myetherapi.com/eth",
+            "url": "https://api.myetherapi.com/rop",
             "creator": {
                 "account": "eth.accounts[0]"
             }
